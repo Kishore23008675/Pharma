@@ -28,8 +28,6 @@ Publish the website in the LocalHost.
 ## PROGRAM :
 web.html
 ```
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,8 +112,10 @@ web.html
     </div>
   </div>
 
-  <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-4 mt-5"> </footer>
+   <!-- Footer -->
+   <footer class="bg-dark text-white text-center py-4 mt-5">
+    <p>&copy; 2024 PharmaCompany - kishore A (212223110022). All rights reserved.</p>
+  </footer>
 
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
@@ -123,12 +123,11 @@ web.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
 ```
 product.html
 ```
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -234,21 +233,21 @@ product.html
   </div>
 
   <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-4 mt-5"> </footer>
-
+  <footer class="bg-dark text-white text-center py-4 mt-5">
+    <p>&copy; 2024 PharmaCompany - kishore A (212223110022). All rights reserved.</p>
+  </footer>
+  
   <!-- Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
 ```
 about.html
 ```
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -346,9 +345,9 @@ about.html
       </div>
     </div>
   </div>
-
-  <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-4 mt-5">
+ <!-- Footer -->
+ <footer class="bg-dark text-white text-center py-4 mt-5">
+    <p>&copy; 2024 PharmaCompany - kishore A (212223110022). All rights reserved.</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -357,14 +356,14 @@ about.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
+
+
 ```
 contact.html
 
 ```
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -465,6 +464,7 @@ contact.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
+    <p>&copy; 2024 PharmaCompany - kishore A (212223110022). All rights reserved.</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -473,17 +473,20 @@ contact.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
+
+
 ```
 
 ## OUTPUT:
-![Screenshot 2024-05-13 125537](https://github.com/Kishore23008675/Pharma/assets/144979375/bb793bb4-3f2a-4561-a538-a12b517c856d)
+![alt text](<kishore/app/static/Screenshot 2024-05-15 084121.png>)
 
-![Screenshot 2024-05-13 125809](https://github.com/Kishore23008675/Pharma/assets/144979375/e820b7bf-99b9-407f-9e4f-1c6054ab8580)
+![alt text](<kishore/app/static/Screenshot 2024-05-15 084132.png>)
 
-![Screenshot 2024-05-13 125845](https://github.com/Kishore23008675/Pharma/assets/144979375/6ed205b7-2d3a-4d06-a095-5e57afcd01f7)
+![alt text](<kishore/app/static/Screenshot 2024-05-15 084510.png>)
 
-![Screenshot 2024-05-13 125926](https://github.com/Kishore23008675/Pharma/assets/144979375/358bfd55-ca89-4a7d-a990-b33f054592c0)
-
+![alt text](<kishore/app/static/Screenshot 2024-05-15 084521.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
